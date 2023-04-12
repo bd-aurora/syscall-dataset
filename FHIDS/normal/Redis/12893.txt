@@ -1,0 +1,1 @@
+close openat dup2 close pipe clone close read read read read rt_sigreturn read read read read read read read read read read read read read read read read read read read read read read close wait4 exit_group

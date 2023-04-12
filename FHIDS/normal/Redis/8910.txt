@@ -1,0 +1,1 @@
+getpid close rt_sigprocmask rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction openat dup2 close dup2 fcntl execve brk access access openat fstat mmap close access openat read fstat mmap mmap mprotect mmap mmap close arch_prctl mprotect mprotect mprotect munmap brk brk fstat ioctl write close close exit_group

@@ -1,0 +1,1 @@
+openat dup2 close chdir stat exit_group

@@ -1,0 +1,1 @@
+set_robust_list sigaltstack mmap sigaltstack mmap munmap mmap munmap mmap sched_getaffinity futex futex futex futex sigaltstack munmap madvise exit

@@ -1,0 +1,1 @@
+set_robust_list mmap munmap munmap mprotect prctl poll read poll

@@ -1,0 +1,1 @@
+execve brk access access openat fstat mmap close access openat read fstat mmap mmap mprotect mmap mmap close arch_prctl mprotect mprotect mprotect munmap brk brk openat fstat mmap close ioctl newfstatat unlinkat newfstatat unlinkat lseek close close close exit_group

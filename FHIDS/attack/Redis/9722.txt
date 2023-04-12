@@ -1,0 +1,1 @@
+execve brk access access openat fstat mmap close access openat read fstat mmap mmap mprotect mmap mmap close arch_prctl mprotect mprotect mprotect munmap getuid getgid getpid rt_sigaction geteuid brk brk getppid stat stat geteuid getegid rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction stat stat stat stat clone wait4 rt_sigreturn exit_group

@@ -1,0 +1,1 @@
+set_robust_list getpid geteuid setgid openat read close openat lseek fstat mmap lseek fstat munmap close openat fstat mmap close access openat read fstat mmap mprotect mmap close mprotect munmap setgroups setuid prctl rt_sigprocmask epoll_create eventfd2 epoll_ctl socketpair epoll_ctl close epoll_wait close mmap brk epoll_ctl epoll_ctl close close epoll_ctl epoll_wait

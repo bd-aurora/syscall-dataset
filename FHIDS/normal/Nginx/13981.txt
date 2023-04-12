@@ -1,0 +1,1 @@
+set_robust_list sigaltstack mmap sigaltstack madvise sched_getaffinity openat write close openat fcntl lseek fstat write write rt_sigprocmask close rt_sigprocmask futex sigaltstack munmap madvise exit

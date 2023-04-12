@@ -1,0 +1,1 @@
+close close dup2 close write dup2 close exit_group

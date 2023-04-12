@@ -1,0 +1,1 @@
+execve write write write exit_group

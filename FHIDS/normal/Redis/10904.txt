@@ -1,0 +1,1 @@
+getpid rt_sigprocmask rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction fstat ioctl write exit_group

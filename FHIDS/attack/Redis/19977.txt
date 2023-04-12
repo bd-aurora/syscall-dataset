@@ -1,0 +1,1 @@
+close close dup2 close pipe clone close read read close wait4 rt_sigreturn chdir write exit_group

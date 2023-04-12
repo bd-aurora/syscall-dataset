@@ -1,0 +1,1 @@
+set_robust_list sigaltstack mmap sigaltstack futex mmap futex mmap sched_getaffinity sched_getaffinity futex futex futex mmap mprotect clone futex futex mmap mprotect clone futex futex getpid tgkill futex sched_yield futex futex futex sigaltstack munmap madvise exit

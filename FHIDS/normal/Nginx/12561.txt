@@ -1,0 +1,1 @@
+close close dup2 close pipe clone close stat stat stat stat stat stat pipe rt_sigreturn clone close rt_sigreturn close stat stat stat stat stat stat clone close close wait4 wait4 wait4 rt_sigreturn exit_group

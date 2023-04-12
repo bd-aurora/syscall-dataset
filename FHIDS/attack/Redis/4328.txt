@@ -1,0 +1,1 @@
+rt_sigaction rt_sigaction rt_sigprocmask clone wait4 rt_sigaction rt_sigaction rt_sigprocmask mkdir mkdir mkdir mkdir write mount mount chmod chdir rename chdir umount2 write mount mount chmod chmod umount2 exit

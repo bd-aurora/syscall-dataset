@@ -1,0 +1,1 @@
+execve write getpid exit_group

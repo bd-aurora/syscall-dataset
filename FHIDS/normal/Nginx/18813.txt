@@ -1,0 +1,1 @@
+set_robust_list sigaltstack mmap sigaltstack madvise sched_getaffinity madvise madvise madvise mmap madvise madvise openat fcntl lseek futex futex futex futex futex madvise sysinfo mmap madvise madvise mmap madvise mmap mmap fstat write write rt_sigprocmask close rt_sigprocmask madvise futex sigaltstack munmap madvise exit

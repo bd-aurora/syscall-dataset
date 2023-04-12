@@ -1,0 +1,1 @@
+set_robust_list getpid setsid umask openat dup2 dup2 close openat pwrite64 close dup2 close rt_sigprocmask socketpair ioctl ioctl ioctl fcntl fcntl fcntl clone socketpair ioctl ioctl ioctl fcntl fcntl fcntl clone sendmsg rt_sigsuspend

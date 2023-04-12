@@ -1,0 +1,1 @@
+close dup2 close execve brk access access openat fstat mmap close access openat read fstat mmap mmap mprotect mmap mmap close arch_prctl mprotect mprotect mprotect munmap brk brk openat fstat mmap close fstat openat fstat fadvise64 mmap read write read munmap close close close exit_group

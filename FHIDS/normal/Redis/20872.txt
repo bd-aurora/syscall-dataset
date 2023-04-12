@@ -1,0 +1,1 @@
+getpid close rt_sigprocmask rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction rt_sigaction dup2 close close rt_sigprocmask stat stat stat stat stat chdir stat stat write exit_group

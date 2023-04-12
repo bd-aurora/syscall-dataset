@@ -1,0 +1,1 @@
+set_robust_list prctl futex futex futex futex futex rt_sigprocmask mmap mprotect mmap munmap munmap mprotect clone rt_sigprocmask madvise futex
